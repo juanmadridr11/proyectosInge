@@ -252,6 +252,11 @@ html{
     header section img:hover{
         margin-left: 26rem !important;
     }
+    #article-6{
+        margin-top: 2rem;
+        margin-left: 2rem !important;
+
+    }
     
  
     
@@ -377,6 +382,11 @@ html{
     header section img:hover{
         margin-left: 18rem !important;
     }
+    #article-6{
+        margin-top: 2rem;
+        margin-left: 2rem !important;
+
+    }
    
     
   
@@ -497,7 +507,15 @@ html{
         margin-top: 2rem;
         margin-left: 2rem !important;
     }
+    #article-6{
+        margin-top: 2rem;
+        margin-left: 2rem !important;
+
+    }
     header section img:hover{
         margin-left: 14rem !important;
+    }
+    #section-3{
+        
     }
 }

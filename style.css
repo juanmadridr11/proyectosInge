@@ -110,11 +110,10 @@ header section span:hover{
     margin-left: 2rem;
     width: 36rem;
     height: 20rem;
-    background-image: url(fondoinge.jpg);
+    background-image: url(arduino.png);
     background-size: 30rem;
     background-color: rgba(0, 0, 0, 0.74);
     background-blend-mode: soft-light;
-    
     border-radius: 1rem;
     transition: 1s;
 }
@@ -123,12 +122,11 @@ header section span:hover{
     margin-left: 1rem;
     width: 36rem;
     height: 20rem;
-    background-image: url(fondoinge2.jpg);
-    background-size: 36rem;
+    background-image: url(fondoinge3.jpg);
+    background-size: 47rem;
     background-color: rgba(0, 0, 0, 0.74);
     background-blend-mode: soft-light;
     background-repeat: no-repeat;
-    background-position-y: -4rem;
     
     border-radius: 1rem;
     transition: 1s;
@@ -156,7 +154,7 @@ header section span:hover{
     width: 30rem;
     height: 18rem;
     margin-left: 4rem;
-    background-size: 30rem;
+    background-size: 39rem;
     
     background-color: transparent !important;
     color: transparent !important;
@@ -186,6 +184,7 @@ footer p{
     background-image: url(fondo.jpg);
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: soft-light;
+    background-size: 130rem;
 }
 .icons:hover{
 
@@ -194,4 +193,61 @@ footer p{
     transition: 1s;
     margin-right: 1.5rem;
 
+}
+#article-5{
+
+    margin-left: 2rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(fondoinge.jpg);
+    background-size: 30rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    border-radius: 1rem;
+    transition: 1s;
+}
+#article-5:hover{
+    
+    width: 34rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 26rem;
+    background-position-x: 1.5rem;
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-6{
+
+    margin-left: 1rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(fondoinge2.jpg);
+    background-size: 36rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-position-y: -4rem;
+    
+    border-radius: 1rem;
+    transition: 1s;
+
+}
+#article-6:hover{
+    
+    width: 30rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 30rem;
+    
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-6:hover #p-6{
+    color: transparent !important;
+    margin-left: 10.5rem !important;
+    transition: 1s;
 }
